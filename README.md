@@ -1,2 +1,2 @@
 # crud-angular
-crud angular, con super component
+crud angular 8, con super component
